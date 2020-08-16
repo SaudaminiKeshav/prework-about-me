@@ -1,8 +1,3 @@
-## About Me 
-
-* This website is a static HTML website using semantic tags and minimal CSS. 
-* It is currently hosted on Github Pages.
-
 
 ## Table of Contents 
 
@@ -14,22 +9,20 @@
 
 * [Tests](#tests)
 
-#wasdxaswxd
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/asdse/asdcxsdcxas?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/asdse/asdcxsdcxas?style=flat&logo=appveyor)
+* [License](#license)
+
+#Code-Quiz
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/[object Object]/Code-Quiz?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/undefined/undefined?style=flat&logo=appveyor)
   
   Check out the badges hosted by [shields.io](https://shields.io/).
   
   ## Description 
   
-  *The what, why, and how:* 
+  04 Web APIs: Code Quiz
   
-  wsadxaswdx
-
-  * [License](#license)
-
+![Developer Profile Picture](https://avatars3.githubusercontent.com/u/65425185?v=4) 
   
-  ## Installation
-  
-  *Steps required to install project and how to get the development environment running:*
-  
-  wasexdaswdx
+For any questions, please contact me with the information below:
+ 
+ GitHub: [@SaudaminiKeshav](https://github.com/SaudaminiKeshav)
+Email: saudamini.keshav@gmail.com
