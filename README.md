@@ -11,39 +11,39 @@
 
 * [License](#license)
 
-#ResponsivePortfolio
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/SaudaminiKeshav/ResponsivePortfolio?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/SaudaminiKeshav/ResponsivePortfolio?style=flat&logo=appveyor)
+#same
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/SaudaminiKeshav/Responsiveportfolio?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/SaudaminiKeshav/Responsiveportfolio?style=flat&logo=appveyor)
   
   Check out the badges hosted by [shields.io](https://shields.io/).
   
   ## Description 
   
-  test
+  sd
 
   ## Installation
   
   Steps required to install project and how to get the development environment running:
   
-  no
+  sd
 
   ## Usage 
   
   Instructions and examples for use:
   
-  no
+  sd
 
    
   ## Contributing
   
   If you would like to contribute it, you can follow these guidelines for how to do so.
   
-  no
+  sd
 
   ## Tests
   
   Tests for application and how to run them:
   
-  no
+  sd
 
   ## License
   
@@ -51,7 +51,7 @@
 
   ## Questions?
   
-  ![Developer Profile Picture](undefined) 
+  ![Developer Profile Picture](https://avatars3.githubusercontent.com/u/65425185?v=4) 
   
   For any questions, please contact me with the information below:
  
